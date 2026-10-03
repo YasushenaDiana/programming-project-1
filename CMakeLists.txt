@@ -6,7 +6,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(BoardCells
         main.cpp
-        RandomCell.cpp
-        Stats.cpp
-        Input.cpp
-        Output.cpp)
+        Cell.h
+        Cell.h
+)
