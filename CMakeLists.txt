@@ -12,4 +12,7 @@ add_executable(BoardCells
         Stats.h
         Input.cpp
         Input.h
+        Output.cpp
+        Output.h
+        main.cpp
 )
